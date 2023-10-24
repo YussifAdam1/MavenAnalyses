@@ -46,6 +46,8 @@ Store with Lowest Stock on Hand in 2017: Santiago 1.
 Store with Highest Stock on Hand in 2018: Ciudad de Mexico 2.
 Store with Lowest Stock on Hand in 2018: Pachuca 1.
 
+![Power](https://github.com/YussifAdam1/MavenAnalyses/assets/135960231/09bd38f3-13f0-43b7-8703-d0f952c668bc)
+
 
 These analyses provide a comprehensive understanding of Maven Toys' sales performance, 
 popular and underperforming products, store performance, and inventory levels in the years 2017 and 2018. 
